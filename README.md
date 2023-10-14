@@ -9,4 +9,4 @@ Implemented federated learning on arduino devices.
 
 Here, we found that more frequent rounds of federated learning is needed, as the training dataset recordings tend to be small in number
 
-Report for this project can be found [here]()
+Report for this project can be found [here](https://github.com/niranshi04/federated_learning/blob/main/federated_learning_report.pdf)
